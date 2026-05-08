@@ -186,6 +186,7 @@ else {
 
 ```yaml
 type: default
+detail: full
 time: 1s
 memory: 512m
 
