@@ -126,6 +126,7 @@ void test(int case_num, ofstream& fout) {
 
 ```yaml
 type: default
+detail: full
 time: 1s
 memory: 256m
 ```
